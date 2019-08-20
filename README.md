@@ -1,2 +1,2 @@
 # Minimax-Operations
-Utilizing Minimax for mining desicion making
+Utilizing Minimax for mining desicion making, the goal is to improve resource allocation
